@@ -17,7 +17,7 @@ cd ByteTrack
 pip install requirements.txt && python setup.py develop
 cd ..
 ```
-- Run detector(replate <video_file> with your video path)
+- Run detector(replace <video_file> with your video path)
 ```
 python numberplate_detector.py <video_file>
 ```
