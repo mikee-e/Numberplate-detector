@@ -1,0 +1,35 @@
+{
+    "resend_time_sec": 0,
+    "car_classes": [1, 2, 3, 4, 5, 7, 8],
+    "numberplate_classes_dict": {
+        "0": "kz",
+        "1": "ee",
+        "2": "cn",
+        "3": "ru",
+        "4": "no",
+        "5": "uz",
+        "6": "by",
+        "7": "ua",
+        "8": "mn",
+        "9": "kg",
+        "10": "am",
+        "11": "po",
+        "12": "md",
+        "13": "az",
+        "14": "lt",
+        "15": "fi",
+        "16": "tj",
+        "17": "lv"
+    },
+    "car_classes_dict": {
+        "0": "bike",
+        "1": "bus",
+        "2": "car",
+        "3": "construction equipment",
+        "4": "emergency",
+        "5": "motorbike",
+        "6": "personal mobility",
+        "7": "quadbike",
+        "8": "truck"
+    }
+}
